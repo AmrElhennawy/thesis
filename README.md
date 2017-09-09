@@ -1,2 +1,4 @@
 # thesis
-My thesis simulink and matlab files
+This repository contains files that I used to generate Sliding Mode Control for a quadcopter vehicle.
+Shall you have any questions, please send me an email: Amr.Hennawy@aucegypt.edu
+I will publish the document used for generating these files once it is finished
